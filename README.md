@@ -1,4 +1,4 @@
-# A File Transfer Protocol Using OpenSSL
+# A File Transfer Program Using OpenSSL
 
 ## Overview
 This guide outlines the steps to generate a self-signed SSL certificate and key for a server, compile and execute the server code, and set up the client to communicate securely with the server. It also includes some basic security measures.
